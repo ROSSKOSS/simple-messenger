@@ -1,0 +1,11 @@
+C:\Projs\Messanger1\Messanger1\bin\Debug\Messanger1.exe.config
+C:\Projs\Messanger1\Messanger1\bin\Debug\Messanger1.exe
+C:\Projs\Messanger1\Messanger1\bin\Debug\Messanger1.pdb
+C:\Projs\Messanger1\Messanger1\obj\Debug\Messanger1.csprojResolveAssemblyReference.cache
+C:\Projs\Messanger1\Messanger1\obj\Debug\Messanger1.Form1.resources
+C:\Projs\Messanger1\Messanger1\obj\Debug\Messanger1.Properties.Resources.resources
+C:\Projs\Messanger1\Messanger1\obj\Debug\Messanger1.csproj.GenerateResource.Cache
+C:\Projs\Messanger1\Messanger1\obj\Debug\Messanger1.exe
+C:\Projs\Messanger1\Messanger1\obj\Debug\Messanger1.pdb
+C:\Projs\Messanger1\Messanger1\bin\Debug\Newtonsoft.Json.dll
+C:\Projs\Messanger1\Messanger1\obj\Debug\Messanger1.IPRequester.resources
